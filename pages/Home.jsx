@@ -15,7 +15,7 @@ function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <Card>
             <CardHeader>
-              <CardTitle>Donation Widget</CardTitle>
+              <CardTitle>testing Donation Widget</CardTitle>
             </CardHeader>
             <CardContent>
               <p className="mb-4">Support our healthcare initiatives by making a donation.</p>
